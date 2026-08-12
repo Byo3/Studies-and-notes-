@@ -10,3 +10,7 @@ This GitHub repository will be used to share my development and technical growth
 * **Feedback is Welcome:** I am completely open to receiving code reviews, constructive criticism, and suggestions.
 
 If you are on a similar journey, you should try doing this too!
+
+# It passed 3 months since I created this repository 
+I'm feeling spectacular, it's awesome, however, I'm not going to lie, is getting more difficult as time goes by 
+ 
