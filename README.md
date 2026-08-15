@@ -11,6 +11,7 @@ This GitHub repository will be used to share my development and technical growth
 
 If you are on a similar journey, you should try doing this too!
 
-# It passed 3 months since I created this repository 
-I'm feeling spectacular, it's awesome, however, I'm not going to lie, is getting more difficult as time goes by 
+## It passed 3 months since I created this repository 
+I'm feeling spectacular, it's awesome, however, I'm not going to lie, is getting more difficult as time goes by,
+also is getting more fun :) and I'm very excited to my next tiny project.
  
